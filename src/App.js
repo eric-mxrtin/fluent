@@ -135,7 +135,7 @@ function App() {
         </div>
 
         <div className="mt-4">
-          <button onClick={signUserOut} className="text-orange-500 hover:underline">
+          <button onClick={signUserOut} className="text-orange-500 px-6 py-3 rounded-md hover:underline hover:bg-gray-100">
             Sign Out
           </button>
         </div>

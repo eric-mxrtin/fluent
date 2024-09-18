@@ -22,7 +22,7 @@ export const Auth = ({ setIsAuth }) => {
       <button
         className="bg-orange-500 text-white font-bold py-4 px-7 rounded-2xl shadow-lg 
                    transform transition duration-300 ease-in-out hover:bg-orange-600 
-                   hover:scale-105 focus:outline-none focus:ring-2 focus:ring-orange-400 
+                   hover:scale-110 focus:outline-none focus:ring-2 focus:ring-orange-400 
                    focus:ring-opacity-50 mb-6"
         onClick={signInWithGoogle}
       >
