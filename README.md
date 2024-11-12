@@ -7,6 +7,8 @@
   <p align="center">
     A real-time chat application that instantly connects language learners with dedicated personal coaches.
   </p>
+
+  <img src="/readme-assets/auth.png" alt="auth"/>
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -33,7 +35,11 @@ So, I made Fluent.
 <!-- GETTING STARTED -->
 ### How it Works
 
-* User signs in / creates an account
-* User selects a role (learner or coach), a language, and their proficiency in that language.
-* User enters a queue. A matchmaking service will match eligible pairs that are in queue.
-* The learner and coach can engage in meaningful conversation!
+1. User signs in / creates an account
+<img src="/readme-assets/auth.png" alt="auth"/>
+2. User selects a role (learner or coach), a language, and their proficiency in that language.
+<img src="/readme-assets/form.png" alt="role selection"/>
+3. User enters a queue. A matchmaking service will match eligible pairs that are in queue.
+<img src="/readme-assets/queue.png" alt="queue"/>
+4. The learner and coach can engage in meaningful conversation!
+<img src="/readme-assets/chat-room.png" alt="chat"/>
